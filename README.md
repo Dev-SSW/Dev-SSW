@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align=center>
+
+<h2> Hi there 👋</h2>
 
 <!--
 **Dev-SSW/Dev-SSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Study Language
+  
+  
+<h3>Study Language</h3>
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
 
@@ -24,8 +28,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=C#&logoColor=white"/>
 
 
-##The Language I Studied in class
+<h3>The Language I Studied in class</h3>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 ### STAT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-SSW&show_icons=true&theme=radical)
+
+</div>
