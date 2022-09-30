@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/MFC-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=C#&logoColor=white"/>
 
 
 ##The Language I Studied in class
