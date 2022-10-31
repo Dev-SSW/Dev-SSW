@@ -22,7 +22,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-SSW&show_icons=true&theme=radical)
 
 
-<img src="https://ghchart.rshah.org/6600FF/Dev-SSW" />
-
 </div>
 
