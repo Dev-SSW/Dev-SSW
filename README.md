@@ -1,7 +1,5 @@
 <div align=center>
 
-![p1065597030067210_278_h](https://user-images.githubusercontent.com/114336975/193532323-5ca1d9be-7362-49ae-a0b6-8e0a06ef8c9a.jpg)
-
 <h1> "Hello Everybody!" </h1>
   
 <h3>Study Language</h3>
