@@ -1,32 +1,31 @@
-<div align=center>
-
-<h1> "Hello EveryOne!" </h1>
+<h1> "Hi! I'm SeungWoo" </h1>
 <h3> I dream of Backend Developer </h3>
-<h3>
-<h3> My Stack </h3>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-<BR>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-<BR>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  
-<h3> Use </h3>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/PostMan-FF6C37?style=for-the-badge&logo=PostMan&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-  <img src="https://img.shields.io/badge/intellijidea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white">
-  
-### BAEKJOON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgg919)](https://solved.ac/sgg919/)
+<h4> 소통을 중요하게 생각하는 개발자가 되고 싶습니다. </h4>
+<hr>
+
+### 🛠️ My Stack
+- Java, SpringBoot
+- Spring Security
+- MySQL, AWS
+- Nginx, Jenkins, Docker
+### 📝 Use
+- GitHub
+- Notion
+- Swagger
+- Postman
+- Intellij
+<hr>
+
+### 💻 Project & Study
+- [HiCoding 프로젝트](https://github.com/Dev-SSW/Hi-Coding-org_BE.git)
+  * 임베디드, 프론트 팀과 연계하여 스마트팜 키트를 구매할 수 있는 웹사이트를 제작하고, 식물 관리 페이지를 제작하여 키트를 사용할 수 있도록 만든 프로젝트  
+  * 서버 배포와 더불어 Docker 컨테이너 안에 Jenkins를 실행함으로 CI/CD를 구축
+- [김영한님의 SpringBoot 프로젝트](https://github.com/Dev-SSW/SpringBoot.git)
+  * SpringBoot, SpringDataJPA, QueryDSL과 관련한 공부
+  * 기본적인 MVC 공부와, 일대다와 같은 연관관계, N+1 문제 등에 대한 학습
+<hr>
 
 ### STAT
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgg919)](https://solved.ac/sgg919/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-SSW&show_icons=true&theme=radical)
-
-
-</div>
-
