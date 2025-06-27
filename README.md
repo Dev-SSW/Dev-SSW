@@ -1,5 +1,4 @@
 <h1> "Hi! I'm SeungWoo" </h1>
-<h3> I dream of Backend Developer </h3>
 <h4> 소통을 중요하게 생각하는 개발자가 되고 싶습니다. </h4>
 <hr>
 
