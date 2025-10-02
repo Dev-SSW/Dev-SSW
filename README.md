@@ -17,8 +17,3 @@
   * SpringBoot, SpringDataJPA, QueryDSL 관련된 학습
   * 기본적인 MVC, 연관관계, N+1 문제 등에 대한 전반적인 학습
 <hr>
-
-### STAT
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgg919)](https://solved.ac/sgg919/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-SSW&show_icons=true&theme=radical)
